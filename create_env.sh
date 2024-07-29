@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# developer enviroment creator scritp
 # variables ------------------------------------------------------------------------------------------------------
 
 LOG_FILE="/tmp/devenv_inst_log.txt"
